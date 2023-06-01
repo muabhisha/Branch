@@ -1,1 +1,9 @@
+DEVELOPING....!!!
+
 local branch dev1 creation..!!!
+
+create branch branchName
+git branch dev1
+
+changing the branch
+git checkout dev1
